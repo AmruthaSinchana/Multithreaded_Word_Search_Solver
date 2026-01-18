@@ -77,21 +77,4 @@ Open `index.html` directly in a browser
 
 ---
 
-## 🔗 API Endpoints
-
-* `GET /levels` → list all levels
-* `GET /level?id={id}` → get a level grid + words
-* `POST /startSolve?id={id}&type={single|multithreaded}` → start solving
-* `GET /progress?id={id}` → live progress
-* `GET /results?id={id}` → final results
-
----
-
-## 📌 Why This Project?
-
-This project is designed to be **viva-ready** and explainable:
-
-* No Spring Boot / frameworks
-* No database dependency
-* Focus on **core CS concepts**: threads, synchronization, parallelism, HTTP basics
 
