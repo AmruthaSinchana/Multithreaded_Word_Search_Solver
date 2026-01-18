@@ -76,5 +76,7 @@ Open `index.html` directly in a browser
 > Note: Backend includes CORS headers for local testing.
 
 ---
+📌 Results
 
-
+Multithreading provides a clear performance improvement compared to sequential execution.
+Using `ExecutorService` ensures efficient thread reuse and prevents excessive thread creation.
