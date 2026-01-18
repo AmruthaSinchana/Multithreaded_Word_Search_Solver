@@ -1,4 +1,3 @@
-````md
 # 🧩 Real-Time Multithreaded Word Search Solver (Java)
 
 A college-level **client–server Word Search Puzzle Solver** built using **Plain Java (no frameworks)** and **Vanilla JavaScript**.
@@ -41,7 +40,6 @@ Key files:
 Files:
 - `index.html`, `style.css`, `app.js`
 
----
 
 ## ⚙️ How Multithreading Works
 
